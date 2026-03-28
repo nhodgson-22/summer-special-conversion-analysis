@@ -27,6 +27,6 @@ How many Summer Special purchasers converted into active members, and how long d
 Raw source data is not included in this repository. Member identifiers were anonymized for privacy and professionalism.
 
 ## Key Findings
-- X% of Summer Special purchasers converted into active memberships
+- 36% of Summer Special purchasers converted into active memberships
 - Average time to convert was 24 days after the 90-day contract ended
 - Some members converted before the promotional period ended, shown by negative days_to_convert values
