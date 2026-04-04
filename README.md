@@ -33,6 +33,6 @@ Raw source data is not included in this repository. Member identifiers were anon
 
 
 
-## Time to Convert Overview
+
 ### Distribution of Time to Conversion
 ![Days to Convert](visuals/days_to_convert.png)
