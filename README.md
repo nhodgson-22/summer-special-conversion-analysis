@@ -31,7 +31,11 @@ Raw source data is not included in this repository. Member identifiers were anon
 - Average time to convert was 24 days after the 90-day contract ended
 - Some members converted before the promotional period ended, shown by negative days_to_convert values
 
+## Conversion Overview
 
+This chart shows the number of Summer Special members who converted into active memberships compared to those who did not.
+
+![Conversion Chart](visuals/conversion_chart.png)
 
 
 ### Distribution of Time to Conversion
