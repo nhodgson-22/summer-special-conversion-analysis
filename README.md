@@ -38,5 +38,8 @@ This chart shows the number of Summer Special members who converted into active 
 ![Conversion Chart](visuals/conversion_chart.png)
 
 
-### Distribution of Time to Conversion
-![Days to Convert](visuals/days_to_convert.png)
+## Distribution of Time to Conversion
+
+This chart illustrates the distribution of conversion timing among Summer Special members who renewed into active memberships. It shows how long members typically took to convert after the 90-day promotional period ended and helps highlight patterns in renewal behavior.
+
+![Distribution of Time to Conversion](visuals/days_to_convert_distribution.png)
